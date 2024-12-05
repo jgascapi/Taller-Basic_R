@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
+# Introducción a R
+_Aquí encontrarás los ejercicios básicos del canal del laboratorio._
 
 </header>
 
